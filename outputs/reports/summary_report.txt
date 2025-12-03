@@ -1,0 +1,29 @@
+
+WEATHER DATA ANALYSIS REPORT
+----------------------------
+
+Mean Values:
+temperature    28.867722
+rainfall       25.471778
+humidity       62.815611
+dtype: float64
+
+Minimum Values:
+temperature    18.16
+rainfall        0.19
+humidity       30.29
+dtype: float64
+
+Maximum Values:
+temperature    39.64
+rainfall       49.79
+humidity       94.66
+dtype: float64
+
+Standard Deviation:
+temperature     6.203665
+rainfall       14.957368
+humidity       19.175851
+dtype: float64
+
+(See cleaned CSV and plots inside the outputs folder)
